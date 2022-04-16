@@ -1,0 +1,26 @@
+body{
+text-align:center;
+}
+#app
+{
+    background-color:bisque;
+}
+
+.line{
+    height:6px;
+    width:70px;
+    background-color:brown;
+    margin:8px auto;
+}
+#games{
+    background-color: lavender;
+}
+#chatbot{
+    background-color: khaki;
+}
+
+h1{
+    font-size:40px;
+    font-family: unset;
+    font-weight:300;
+}
